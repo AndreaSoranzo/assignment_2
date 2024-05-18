@@ -33,14 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/andre/Desktop/New folder/roman-number/pom.xml&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/media/andrea/Storage/Uni/MTSS/assignment_2/src/test/java/it/unipd/mtss"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/it/unipd/mtss" />
+      <recent name="$PROJECT_DIR$/src/main/java/it/unipd/mtss" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\andre\Desktop\New folder\roman-number\src\test\java\it\unipd\mtss" />
       <recent name="C:\Users\andre\Desktop\New folder\roman-number\src\main\java\it\unipd\mtss" />
